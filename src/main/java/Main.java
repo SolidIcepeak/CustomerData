@@ -6,7 +6,7 @@ public class Main {
         post.patronymic = "Андреевич";
         post.phone = "+7 (999)-999-99-99";
         post.surname = "Морозов";
-        post.subscription = "true";
+        post.subscription = true;
         var birthday = new FormDate();
         birthday.day = 17;
         birthday.month = 8;
